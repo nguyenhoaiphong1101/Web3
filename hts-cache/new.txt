@@ -1,0 +1,4 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+19:44:15	26119/26119	---MCZ	200	added ('OK')	text/html	date:Wed,%2006%20Jun%202018%2008:52:43%20GMT	https://demos.onepagelove.com/html/namari/	C:/My%20Web%20Sites/webdemo/demos.onepagelove.com/html/namari/index.html	(from )
+19:44:15	181/181	---M-Z	200	added ('OK')	text/plain	etag:W/%225ecb0b5b-29a%22	https://demos.onepagelove.com/robots.txt		(from )
+19:44:17	52916/52916	---MC-	200	added ('OK')	text/javascript	date:Mon,%2012%20Jun%202023%2018:23:07%20GMT	http://www.google-analytics.com/analytics.js	C:/My%20Web%20Sites/webdemo/www.google-analytics.com/analytics.js	(from https://demos.onepagelove.com/html/namari/)
